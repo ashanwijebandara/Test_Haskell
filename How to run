@@ -1,3 +1,6 @@
 1. ghc basic-example.hs 
 2. .\ basic-example.example
 
+OR
+
+runhaskell hello.hs

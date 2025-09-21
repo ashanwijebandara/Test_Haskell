@@ -1,0 +1,15 @@
+# Haskell compilation artifacts
+*.exe
+*.hi
+*.o
+
+# Stack build artifacts
+.stack-work/
+dist/
+dist-newstyle/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
